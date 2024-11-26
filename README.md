@@ -1,2 +1,2 @@
 # Data-Analytics
-This project includes data cleaning, data visualization, creating dashboards by showing the unique data of how to use social media platforms by saving amount by discount
+The project synopsis outlines an analysis of major e-commerce platforms to determine the best option based on product diversity, user ratings, pricing consistency, and customer service quality. I will proceed to create an exploratory data analysis (EDA) Python script for this project based on the methodology provided.
